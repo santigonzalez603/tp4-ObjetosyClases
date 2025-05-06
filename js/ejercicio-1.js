@@ -1,7 +1,7 @@
 const auto = {
-    color: "blanco",
-    marca: "honda",
-    modelo: "civic",
+    color: "Blanco",
+    marca: "Honda",
+    modelo: "Civic",
     encendido: false,
 
     encender: function (){
